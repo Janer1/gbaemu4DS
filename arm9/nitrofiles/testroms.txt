@@ -1,0 +1,4 @@
+Tested roms
+
+Pokemon Firered.gba
+Pokemon Leafgreen.gba
